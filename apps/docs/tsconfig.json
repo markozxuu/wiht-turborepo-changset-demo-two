@@ -1,6 +1,6 @@
 {
   "exclude": ["node_modules"],
-  "extends": "@mark/tsconfig/nextjs.json",
+  "extends": "@markozxuu/tsconfigg/nextjs.json",
   "compilerOptions": {
     "outDir": "dist",
     "incremental": true,
