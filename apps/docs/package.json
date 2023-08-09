@@ -1,5 +1,5 @@
 {
-  "name": "@acme/docs",
+  "name": "@mark/docs",
   "version": "0.0.2",
   "private": true,
   "scripts": {
@@ -17,7 +17,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@acme/mark": "workspace:*",
+    "@mark/tsconfig": "workspace:*",
     "@types/node": "^17.0.12",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
