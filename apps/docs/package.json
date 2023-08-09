@@ -1,5 +1,5 @@
 {
-  "name": "@acme/docs",
+  "name": "@markozxuu/docs",
   "version": "0.0.2",
   "private": true,
   "scripts": {
@@ -10,18 +10,18 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "@acme/core": "workspace:*",
-    "@acme/utils": "workspace:*",
+    "@markozxuu/coree": "workspace:*",
+    "@markozxuu/utilss": "workspace:*",
     "next": "^13.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@acme/tsconfig": "workspace:*",
+    "@markozxuu/tsconfigg": "workspace:*",
     "@types/node": "^17.0.12",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
-    "eslint-config-acme": "workspace:*",
+    "@markozxuu/eslint-config-acmee": "workspace:*",
     "typescript": "^4.5.4"
   }
 }
