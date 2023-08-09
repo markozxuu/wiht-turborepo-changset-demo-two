@@ -10,18 +10,18 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "@mark/core": "workspace:*",
-    "@mark/utils": "workspace:*",
+    "@markozxuu/coree": "workspace:*",
+    "@markozxuu/utilss": "workspace:*",
     "next": "^13.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@mark/tsconfig": "workspace:*",
+    "@markozxuu/tsconfigg": "workspace:*",
     "@types/node": "^17.0.12",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
-    "@mark/eslint-config-acme": "workspace:*",
+    "@markozxuu/eslint-config-acmee": "workspace:*",
     "typescript": "^4.5.4"
   }
 }
